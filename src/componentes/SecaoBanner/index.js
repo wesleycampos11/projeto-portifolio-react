@@ -8,7 +8,7 @@ export default function SecaoBanner(props) {
       <div className="texto-secaoBanner">
         <p>FRONTEND / BACKEND/ TECNOLOGIA</p>
         <h2>Agência de Branding</h2>
-        <span>e Desenvolvimento Web</span>
+        <span>e Desenvolver Web</span>
       </div>
     </section>
   )
